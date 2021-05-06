@@ -1,0 +1,20 @@
+numbers = "0123456789", decimal = ".", base = 10;
+function sizeBtwn(a, b, num) {
+  this.a = a;
+  this.b = b;
+  this.num = num;
+}
+
+currentSize = 10**(var currentExponent);
+currentExponent = sizeBtwn(-43, 28, var num);
+minExponent = -43;
+maxExponent = 28;
+minSize = 10**-43;
+maxSize = 10**28;
+function UniverseSize(D) {
+  this.D = D;
+}
+
+function Speed(zoomFactor) {
+  this.zoomFactor = zoomFactor
+}
